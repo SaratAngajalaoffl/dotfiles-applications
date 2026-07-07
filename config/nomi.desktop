@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=Nomi
+GenericName=Text editor
+Comment=Expression notepad with Numi per-line evaluation
+Exec=/home/mugiwara/.local/bin/nomi %F
+Icon=nomi
+Categories=Office;TextEditor;Utility;Qt;
+MimeType=text/plain;
+StartupWMClass=nomi
+Keywords=notepad;numi;calculator;text;qt;
+Terminal=false

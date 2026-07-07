@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=MongoDB Compass
+Comment=The MongoDB GUI
+Exec=/bin/sh -c 'cd /home/mugiwara/builders/perm/compass && npm run run-compiled --workspace=mongodb-compass'
+Icon=database
+Terminal=false
+Categories=Development;Database;
+StartupNotify=true
